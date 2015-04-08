@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- Search Widget -->
+
+ 
+    
+    <item android:id="@+id/sort_title" 
+          android:title="Sort by Title"/>
+    
+    
+    <item android:id="@+id/sort_date"
+          android:title="Sort by Date"/>
+    
+     <item android:id="@+id/sort_author"
+          android:title="Sort by Author"/>
+     
+       <item android:id="@+id/sort_website"
+          android:title="Sort by Website"/>
+
+</menu>
